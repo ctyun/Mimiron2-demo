@@ -1,0 +1,26 @@
+{
+  "name": "mimiron2-demo",
+  "version": "0.0.1",
+  "description": "[Mimiron2](https://github.com/ctyun/Mimiron2)的演示工程",
+  "main": "index.js",
+  "dependencies": {
+    "babel": "^6.1.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ctyun/Mimiron2-demo.git"
+  },
+  "keywords": [
+    "Mimiron2"
+  ],
+  "author": "Aether",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ctyun/Mimiron2-demo/issues"
+  },
+  "homepage": "https://github.com/ctyun/Mimiron2-demo#readme"
+}
